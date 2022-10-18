@@ -1,0 +1,32 @@
+/*
+Tamaño de fuente
+ */
+body{
+	font-size: 15px;
+}
+/**
+ *Margen centrado, borde de un pixel con redondeado, y rellenado
+ * a la izquierda y derecha
+ */
+ a:visited {color: #8F3A84;}
+#Contenedor{
+	width: 400px;
+	margin: 50px auto;
+	background-color: pink;
+        border: 10px solid wite;
+	height: 400px;
+	border-radius:10px;
+	padding: 30px 9px 20px 9px;
+}
+
+
+
+/**
+ * Se aplica al contenedor donde muestra en el pie
+ * la opción de olvidaste tu contraseña?
+ */
+.opcioncontra{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 14px;
+}
